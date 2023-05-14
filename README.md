@@ -1,2 +1,1 @@
-# Transcription-diarization-whisper-pyannote
-Transcription and diarization (speaker identification)
+# Transcription and speaker identification using OpenAI Whisper and Pyannote
